@@ -12,7 +12,9 @@
     <img align="center" alt="Michele is" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Michele is" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Michele is" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
+    <img align="right" alt="Michele-gif" src="https://i.picasion.com/pic91/d99f961944b0171a4b50c599fadfd375.gif" width="150" height="150" border="0"
+ </div>      
+         
   ##
   
   
