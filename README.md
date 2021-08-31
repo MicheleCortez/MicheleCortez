@@ -1,4 +1,4 @@
-### Olá! Eu soua Michele Cortez
+### Olá! Eu sou a Michele Cortez
 
 <div>
   <a href="https://github.com/MicheleCortez">
